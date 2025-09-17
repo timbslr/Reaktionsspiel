@@ -3,7 +3,7 @@ Ein Reaktionsspiel für die Konsole, bei dem man mehrmals hintereinander zufäll
 
 ## Installationsanleitung
 ```
-git clone https://github.com/CodingFactoryT/Reaktionsspiel.git
+git clone https://github.com/timbslr/Reaktionsspiel.git
 cd .\Reaktionsspiel\
 javac Main.java
 java Main
